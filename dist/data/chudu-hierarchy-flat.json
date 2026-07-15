@@ -1,0 +1,2338 @@
+[
+  {
+    "ward_id": 1,
+    "ward": "JP COLONY",
+    "circle": "PATANCHERUVU",
+    "division": "19",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 2,
+    "ward": "PATANCHERUVU",
+    "circle": "PATANCHERUVU",
+    "division": "19",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 3,
+    "ward": "TELLAPUR",
+    "circle": "PATANCHERUVU",
+    "division": "19",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 4,
+    "ward": "BHARATHI NAGAR",
+    "circle": "AMEENPUR",
+    "division": "19",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 5,
+    "ward": "RAMACHANDRAPURAM (RC PURAM)",
+    "circle": "AMEENPUR",
+    "division": "19",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 6,
+    "ward": "BEERAMGUDA",
+    "circle": "AMEENPUR",
+    "division": "19",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 7,
+    "ward": "AMEENPUR",
+    "circle": "AMEENPUR",
+    "division": "19",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 8,
+    "ward": "BOLLARAM",
+    "circle": "AMEENPUR",
+    "division": "19",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 9,
+    "ward": "NEKNAMPUR",
+    "circle": "NARSINGI",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 10,
+    "ward": "NARSINGI",
+    "circle": "NARSINGI",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 11,
+    "ward": "KOKAPET",
+    "circle": "NARSINGI",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 12,
+    "ward": "GANDIPET",
+    "circle": "NARSINGI",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 13,
+    "ward": "MANIKONDA",
+    "circle": "NARSINGI",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 14,
+    "ward": "MADEENAGUDA",
+    "circle": "MIYAPUR",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 15,
+    "ward": "MAKTHA MAHABUBPET",
+    "circle": "MIYAPUR",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 16,
+    "ward": "MIYAPUR",
+    "circle": "MIYAPUR",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 17,
+    "ward": "CHANDA NAGAR",
+    "circle": "MIYAPUR",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 18,
+    "ward": "HAFEEZPET",
+    "circle": "MIYAPUR",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 19,
+    "ward": "DEEPTHISRI NAGAR",
+    "circle": "MIYAPUR",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 20,
+    "ward": "MASJID BANDA",
+    "circle": "SERILINGAMPALLY",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 21,
+    "ward": "SRI RAM NAGAR",
+    "circle": "SERILINGAMPALLY",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 22,
+    "ward": "SERILINGAMPALLY",
+    "circle": "SERILINGAMPALLY",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 23,
+    "ward": "GACHIBOWLI",
+    "circle": "SERILINGAMPALLY",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 24,
+    "ward": "NALLAGANDLA",
+    "circle": "SERILINGAMPALLY",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 25,
+    "ward": "KONDAPUR",
+    "circle": "SERILINGAMPALLY",
+    "division": "20",
+    "zone": "SERILINGAMPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 26,
+    "ward": "HITEC CITY",
+    "circle": "MADHAPUR",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 27,
+    "ward": "IZZATH NAGAR",
+    "circle": "MADHAPUR",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 28,
+    "ward": "MATRUSRI NAGAR",
+    "circle": "MADHAPUR",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 29,
+    "ward": "ANJAIAH NAGAR",
+    "circle": "MADHAPUR",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 30,
+    "ward": "MAYURI NAGAR",
+    "circle": "MADHAPUR",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 31,
+    "ward": "MADHAPUR",
+    "circle": "MADHAPUR",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 32,
+    "ward": "HYDER NAGAR",
+    "circle": "ALLWYN COLONY",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 33,
+    "ward": "SHAMSHIGUDA",
+    "circle": "ALLWYN COLONY",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 34,
+    "ward": "VENKATESHWARA NAGAR",
+    "circle": "ALLWYN COLONY",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 35,
+    "ward": "ALLWYN COLONY",
+    "circle": "ALLWYN COLONY",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 36,
+    "ward": "BHAGYA NAGAR COLONY",
+    "circle": "ALLWYN COLONY",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 37,
+    "ward": "VIVEKANANDA NAGAR COLONY",
+    "circle": "ALLWYN COLONY",
+    "division": "21",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 38,
+    "ward": "VASANTH NAGAR",
+    "circle": "KUKATPALLY",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 39,
+    "ward": "KAITHALAPUR",
+    "circle": "KUKATPALLY",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 40,
+    "ward": "KPHB COLONY",
+    "circle": "KUKATPALLY",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 41,
+    "ward": "KUKATPALLY",
+    "circle": "KUKATPALLY",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 42,
+    "ward": "BALAJI NAGAR",
+    "circle": "KUKATPALLY",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 43,
+    "ward": "GAYATRI NAGAR",
+    "circle": "KUKATPALLY",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 44,
+    "ward": "ALLAPUR",
+    "circle": "MOOSAPET",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 45,
+    "ward": "PRASHANTH NAGAR",
+    "circle": "MOOSAPET",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 46,
+    "ward": "MOOSAPET",
+    "circle": "MOOSAPET",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 47,
+    "ward": "BALANAGAR",
+    "circle": "MOOSAPET",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 48,
+    "ward": "MOTI NAGAR",
+    "circle": "MOOSAPET",
+    "division": "22",
+    "zone": "KUKATPALLY",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 49,
+    "ward": "GIRI NAGAR",
+    "circle": "CHINTAL",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 50,
+    "ward": "RANGA REDDY NAGAR",
+    "circle": "CHINTAL",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 51,
+    "ward": "CHINTAL",
+    "circle": "CHINTAL",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 52,
+    "ward": "RODAMESTRI NAGAR",
+    "circle": "CHINTAL",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 53,
+    "ward": "JAGATHGIRI GUTTA",
+    "circle": "CHINTAL",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 54,
+    "ward": "GANESH NAGAR",
+    "circle": "JEEDIMETLA",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 55,
+    "ward": "PET BASHEERABAD",
+    "circle": "JEEDIMETLA",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 56,
+    "ward": "PADMA NAGAR",
+    "circle": "JEEDIMETLA",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 57,
+    "ward": "QUTHBULLAPUR",
+    "circle": "JEEDIMETLA",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 58,
+    "ward": "SUBHASH NAGAR",
+    "circle": "KOMPALLY",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 59,
+    "ward": "SAIBABA NAGAR",
+    "circle": "KOMPALLY",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 60,
+    "ward": "DOOLAPALLY",
+    "circle": "KOMPALLY",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 61,
+    "ward": "KOMPALLY",
+    "circle": "KOMPALLY",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 62,
+    "ward": "MAHADEVPURAM",
+    "circle": "GAJULARAMARAM",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 63,
+    "ward": "SHAPUR NAGAR",
+    "circle": "GAJULARAMARAM",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 64,
+    "ward": "GAJULARAMARAM",
+    "circle": "GAJULARAMARAM",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 65,
+    "ward": "SURARAM",
+    "circle": "GAJULARAMARAM",
+    "division": "23",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 66,
+    "ward": "BHANDARI LAYOUT",
+    "circle": "NIZAMPET",
+    "division": "24",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 67,
+    "ward": "NIZAMPET",
+    "circle": "NIZAMPET",
+    "division": "24",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 68,
+    "ward": "BACHUPALLY",
+    "circle": "NIZAMPET",
+    "division": "24",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 69,
+    "ward": "PRAGATHI NAGAR",
+    "circle": "NIZAMPET",
+    "division": "24",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 70,
+    "ward": "BAHADURPALLY",
+    "circle": "DUNDIGAL",
+    "division": "24",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 71,
+    "ward": "BOWRAMPET",
+    "circle": "DUNDIGAL",
+    "division": "24",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 72,
+    "ward": "GUNDLAPOCHAMPALLY",
+    "circle": "MEDCHAL",
+    "division": "24",
+    "zone": "QUTHBULLAPUR",
+    "municipal_corporation": "CYBERABAD"
+  },
+  {
+    "ward_id": 73,
+    "ward": "THORRUR",
+    "circle": "ADIBATLA",
+    "division": "7",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 74,
+    "ward": "TURKAYAMJAL",
+    "circle": "ADIBATLA",
+    "division": "7",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 75,
+    "ward": "ADIBATLA",
+    "circle": "ADIBATLA",
+    "division": "7",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 76,
+    "ward": "NADARGUL",
+    "circle": "BADANGPET",
+    "division": "7",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 77,
+    "ward": "PRASHANTHI HILLS",
+    "circle": "BADANGPET",
+    "division": "7",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 78,
+    "ward": "BALAPUR",
+    "circle": "BADANGPET",
+    "division": "7",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 79,
+    "ward": "BADANGPET",
+    "circle": "BADANGPET",
+    "division": "7",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 80,
+    "ward": "MEERPET",
+    "circle": "BADANGPET",
+    "division": "7",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 81,
+    "ward": "JILLELAGUDA",
+    "circle": "BADANGPET",
+    "division": "7",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 82,
+    "ward": "SHAHEEN NAGAR",
+    "circle": "JALPALLY",
+    "division": "8",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 83,
+    "ward": "PAHADI SHAREEF",
+    "circle": "JALPALLY",
+    "division": "8",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 84,
+    "ward": "JALPALLY",
+    "circle": "JALPALLY",
+    "division": "8",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 85,
+    "ward": "KOTHWALGUDA",
+    "circle": "SHAMSHABAD",
+    "division": "8",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 86,
+    "ward": "SHAMSHABAD",
+    "circle": "SHAMSHABAD",
+    "division": "8",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 87,
+    "ward": "THUKKUGUDA",
+    "circle": "SHAMSHABAD",
+    "division": "8",
+    "zone": "SHAMSHABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 88,
+    "ward": "RAJENDRA NAGAR",
+    "circle": "RAJENDRA NAGAR",
+    "division": "9",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 89,
+    "ward": "BANDLAGUDA JAGIR",
+    "circle": "RAJENDRA NAGAR",
+    "division": "9",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 90,
+    "ward": "HYDERSHAHKOTE",
+    "circle": "RAJENDRA NAGAR",
+    "division": "9",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 91,
+    "ward": "KISMATPUR",
+    "circle": "RAJENDRA NAGAR",
+    "division": "9",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 92,
+    "ward": "SHASTRIPURAM",
+    "circle": "ATTAPUR",
+    "division": "9",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 93,
+    "ward": "HYDERGUDA",
+    "circle": "ATTAPUR",
+    "division": "9",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 94,
+    "ward": "ATTAPUR",
+    "circle": "ATTAPUR",
+    "division": "9",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 95,
+    "ward": "SULEMAN NAGAR",
+    "circle": "ATTAPUR",
+    "division": "9",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 96,
+    "ward": "MAILARDEVPALLY",
+    "circle": "ATTAPUR",
+    "division": "9",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 97,
+    "ward": "KATEDAN",
+    "circle": "ATTAPUR",
+    "division": "9",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 98,
+    "ward": "TEEGAL KUNTA",
+    "circle": "BAHADURPURA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 99,
+    "ward": "RAMNASTHPURA",
+    "circle": "BAHADURPURA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 100,
+    "ward": "CHANDU LAL BARADARI",
+    "circle": "BAHADURPURA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 101,
+    "ward": "DOODH BOWLI",
+    "circle": "BAHADURPURA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 102,
+    "ward": "KISHANBAGH",
+    "circle": "BAHADURPURA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 103,
+    "ward": "SHAH ALI BANDA",
+    "circle": "FALAKNUMA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 104,
+    "ward": "FALAKNUMA",
+    "circle": "FALAKNUMA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 105,
+    "ward": "NAWAB SAHEB KUNTA",
+    "circle": "FALAKNUMA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 106,
+    "ward": "JAHANUMA",
+    "circle": "FALAKNUMA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 107,
+    "ward": "NOORI NAGAR",
+    "circle": "CHANDRAYANGUTTA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 108,
+    "ward": "BARKAS",
+    "circle": "CHANDRAYANGUTTA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 109,
+    "ward": "CHANDRAYANGUTTA",
+    "circle": "CHANDRAYANGUTTA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 110,
+    "ward": "BANDLAGUDA",
+    "circle": "CHANDRAYANGUTTA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 111,
+    "ward": "KANCHANBAGH",
+    "circle": "CHANDRAYANGUTTA",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 112,
+    "ward": "LALITHA BAGH",
+    "circle": "JANGAMMET",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 113,
+    "ward": "PHOOL BAGH",
+    "circle": "JANGAMMET",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 114,
+    "ward": "QUADRI CHAMAN",
+    "circle": "JANGAMMET",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 115,
+    "ward": "JANGAMMET",
+    "circle": "JANGAMMET",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 116,
+    "ward": "RIYASAT NAGAR",
+    "circle": "JANGAMMET",
+    "division": "10",
+    "zone": "RAJENDRANAGAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 117,
+    "ward": "TALAB CHANCHALAM",
+    "circle": "YAKUTPURA",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 118,
+    "ward": "DABEERPURA",
+    "circle": "YAKUTPURA",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 119,
+    "ward": "REIN BAZAR",
+    "circle": "YAKUTPURA",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 120,
+    "ward": "MADANNAPET",
+    "circle": "YAKUTPURA",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 121,
+    "ward": "YAKUTPURA",
+    "circle": "YAKUTPURA",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 122,
+    "ward": "GOWLIPURA",
+    "circle": "YAKUTPURA",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 123,
+    "ward": "QAZIPURA",
+    "circle": "CHARMINAR",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 124,
+    "ward": "GHANSI BAZAR",
+    "circle": "CHARMINAR",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 125,
+    "ward": "PURANA PUL",
+    "circle": "CHARMINAR",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 126,
+    "ward": "PURANI HAVELI",
+    "circle": "CHARMINAR",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 127,
+    "ward": "HARI BOWLI",
+    "circle": "CHARMINAR",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 128,
+    "ward": "PATHERGATTI",
+    "circle": "CHARMINAR",
+    "division": "11",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 129,
+    "ward": "BHANU NAGAR",
+    "circle": "SANTOSH NAGAR",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 130,
+    "ward": "IS SADAN",
+    "circle": "SANTOSH NAGAR",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 131,
+    "ward": "SARASWATI NAGAR",
+    "circle": "SANTOSH NAGAR",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 132,
+    "ward": "SANTOSH NAGAR",
+    "circle": "SANTOSH NAGAR",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 133,
+    "ward": "AKBERBAGH",
+    "circle": "MALAKPET",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 134,
+    "ward": "CHAWANI",
+    "circle": "MALAKPET",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 135,
+    "ward": "SAIDABAD",
+    "circle": "MALAKPET",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 136,
+    "ward": "ASMANGADH",
+    "circle": "MALAKPET",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 137,
+    "ward": "OLD MALAKPET",
+    "circle": "MOOSARAMBAGH",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 138,
+    "ward": "MCH COLONY",
+    "circle": "MOOSARAMBAGH",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 139,
+    "ward": "KALA DERA",
+    "circle": "MOOSARAMBAGH",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 140,
+    "ward": "AZAMPURA",
+    "circle": "MOOSARAMBAGH",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 141,
+    "ward": "MOOSARAMBAGH",
+    "circle": "MOOSARAMBAGH",
+    "division": "12",
+    "zone": "CHARMINAR",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 142,
+    "ward": "DATTATREYA NAGAR",
+    "circle": "GOSHAMAHAL",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 143,
+    "ward": "GOSHAMAHAL",
+    "circle": "GOSHAMAHAL",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 144,
+    "ward": "BEGUM BAZAR",
+    "circle": "GOSHAMAHAL",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 145,
+    "ward": "JAMBAGH",
+    "circle": "GOSHAMAHAL",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 146,
+    "ward": "EXHIBITION GROUNDS",
+    "circle": "GOSHAMAHAL",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 147,
+    "ward": "MANGHALHAT",
+    "circle": "GOSHAMAHAL",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 148,
+    "ward": "GUDIMALKAPUR",
+    "circle": "KARWAN",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 149,
+    "ward": "LANGAR HOUZ",
+    "circle": "KARWAN",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 150,
+    "ward": "KARWAN",
+    "circle": "KARWAN",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 151,
+    "ward": "TAPPACHABUTRA",
+    "circle": "KARWAN",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 152,
+    "ward": "ZIAGUDA",
+    "circle": "KARWAN",
+    "division": "13",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 153,
+    "ward": "NIZAM COLONY",
+    "circle": "GOLCONDA",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 154,
+    "ward": "NANALNAGAR",
+    "circle": "GOLCONDA",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 155,
+    "ward": "IBRAHIMBAGH",
+    "circle": "GOLCONDA",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 156,
+    "ward": "OU COLONY",
+    "circle": "GOLCONDA",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 157,
+    "ward": "TOLICHOWKI",
+    "circle": "GOLCONDA",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 158,
+    "ward": "GOLCONDA",
+    "circle": "GOLCONDA",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 159,
+    "ward": "SHAIKPET",
+    "circle": "GOLCONDA",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 160,
+    "ward": "PADMANABHA NAGAR",
+    "circle": "MEHDIPATNAM",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 161,
+    "ward": "SYED NAGAR",
+    "circle": "MEHDIPATNAM",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 162,
+    "ward": "MEHDIPATNAM",
+    "circle": "MEHDIPATNAM",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 163,
+    "ward": "ASIF NAGAR",
+    "circle": "MEHDIPATNAM",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 164,
+    "ward": "SHANTI NAGAR",
+    "circle": "MASAB TANK",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 165,
+    "ward": "MALLEPALLY",
+    "circle": "MASAB TANK",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 166,
+    "ward": "VIJAYANAGAR COLONY",
+    "circle": "MASAB TANK",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 167,
+    "ward": "AHMED NAGAR",
+    "circle": "MASAB TANK",
+    "division": "14",
+    "zone": "GOLCONDA",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 168,
+    "ward": "IRRUM MANZIL",
+    "circle": "KHAIRATABAD",
+    "division": "15",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 169,
+    "ward": "KHAIRATABAD",
+    "circle": "KHAIRATABAD",
+    "division": "15",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 170,
+    "ward": "HIMAYATHNAGAR",
+    "circle": "KHAIRATABAD",
+    "division": "15",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 171,
+    "ward": "RED HILLS",
+    "circle": "KHAIRATABAD",
+    "division": "15",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 172,
+    "ward": "GUNFOUNDRY",
+    "circle": "KHAIRATABAD",
+    "division": "15",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 173,
+    "ward": "SOMAJIGUDA",
+    "circle": "KHAIRATABAD",
+    "division": "15",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 174,
+    "ward": "VENKATESHWARA COLONY",
+    "circle": "JUBILEE HILLS",
+    "division": "15",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 175,
+    "ward": "JUBILEE HILLS",
+    "circle": "JUBILEE HILLS",
+    "division": "15",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 176,
+    "ward": "BANJARA HILLS",
+    "circle": "JUBILEE HILLS",
+    "division": "15",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 177,
+    "ward": "FILM NAGAR",
+    "circle": "JUBILEE HILLS",
+    "division": "15",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 178,
+    "ward": "KRISHNA NAGAR",
+    "circle": "BORABANDA",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 179,
+    "ward": "RAHAMATH NAGAR",
+    "circle": "BORABANDA",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 180,
+    "ward": "KARMIKA NAGAR",
+    "circle": "BORABANDA",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 181,
+    "ward": "RAJEEV NAGAR",
+    "circle": "BORABANDA",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 182,
+    "ward": "BORABANDA",
+    "circle": "BORABANDA",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 183,
+    "ward": "SRINAGAR COLONY",
+    "circle": "YOUSUFGUDA",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 184,
+    "ward": "YOUSUFGUDA",
+    "circle": "YOUSUFGUDA",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 185,
+    "ward": "AG COLONY",
+    "circle": "YOUSUFGUDA",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 186,
+    "ward": "ERRAGADDA",
+    "circle": "YOUSUFGUDA",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 187,
+    "ward": "VENGAL RAO NAGAR",
+    "circle": "YOUSUFGUDA",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 188,
+    "ward": "BEGUMPET",
+    "circle": "AMEERPET",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 189,
+    "ward": "AMEERPET",
+    "circle": "AMEERPET",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 190,
+    "ward": "BK GUDA",
+    "circle": "AMEERPET",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 191,
+    "ward": "SR NAGAR",
+    "circle": "AMEERPET",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 192,
+    "ward": "SANATHNAGAR",
+    "circle": "AMEERPET",
+    "division": "16",
+    "zone": "KHAIRATABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 193,
+    "ward": "KAVADIGUDA",
+    "circle": "KAVADIGUDA",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 194,
+    "ward": "BAKARAM",
+    "circle": "KAVADIGUDA",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 195,
+    "ward": "BHOLAKPUR",
+    "circle": "KAVADIGUDA",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 196,
+    "ward": "PADMARAO NAGAR",
+    "circle": "KAVADIGUDA",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 197,
+    "ward": "BANSILALPET",
+    "circle": "KAVADIGUDA",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 198,
+    "ward": "RAMGOPALPET",
+    "circle": "KAVADIGUDA",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 199,
+    "ward": "GANDHI NAGAR",
+    "circle": "KAVADIGUDA",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 200,
+    "ward": "RAMNAGAR",
+    "circle": "MUSHEERABAD",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 201,
+    "ward": "BAPUJI NAGAR",
+    "circle": "MUSHEERABAD",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 202,
+    "ward": "MUSHEERABAD",
+    "circle": "MUSHEERABAD",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 203,
+    "ward": "BAGH LINGAMPALLY",
+    "circle": "MUSHEERABAD",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 204,
+    "ward": "ADIKMET",
+    "circle": "MUSHEERABAD",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 205,
+    "ward": "KACHIGUDA",
+    "circle": "AMBERPET",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 206,
+    "ward": "GOLNAKA",
+    "circle": "AMBERPET",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 207,
+    "ward": "PATEL NAGAR",
+    "circle": "AMBERPET",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 208,
+    "ward": "BAGH AMBERPET",
+    "circle": "AMBERPET",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 209,
+    "ward": "TILAK NAGAR",
+    "circle": "AMBERPET",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 210,
+    "ward": "NALLAKUNTA",
+    "circle": "AMBERPET",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 211,
+    "ward": "AMBERPET",
+    "circle": "AMBERPET",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 212,
+    "ward": "BARKATPURA",
+    "circle": "AMBERPET",
+    "division": "17",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 213,
+    "ward": "CHILKALGUDA",
+    "circle": "TARNAKA",
+    "division": "18",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 214,
+    "ward": "SEETHAPHALMANDI",
+    "circle": "TARNAKA",
+    "division": "18",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 215,
+    "ward": "BOUDHA NAGAR",
+    "circle": "TARNAKA",
+    "division": "18",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 216,
+    "ward": "TARNAKA",
+    "circle": "TARNAKA",
+    "division": "18",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 217,
+    "ward": "NORTH LALAGUDA",
+    "circle": "METTUGUDA",
+    "division": "18",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 218,
+    "ward": "ADDAGUTTA",
+    "circle": "METTUGUDA",
+    "division": "18",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 219,
+    "ward": "METTUGUDA",
+    "circle": "METTUGUDA",
+    "division": "18",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 220,
+    "ward": "LALAPET",
+    "circle": "METTUGUDA",
+    "division": "18",
+    "zone": "SECUNDERABAD",
+    "municipal_corporation": "HYDERABAD"
+  },
+  {
+    "ward_id": 221,
+    "ward": "KEESARA",
+    "circle": "KEESARA",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 222,
+    "ward": "CHANDRAPURI COLONY",
+    "circle": "KEESARA",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 223,
+    "ward": "SHAMIRPET",
+    "circle": "KEESARA",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 224,
+    "ward": "YAPRAL",
+    "circle": "KEESARA",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 225,
+    "ward": "JAWAHARNAGAR",
+    "circle": "KEESARA",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 226,
+    "ward": "DAMMAIGUDA",
+    "circle": "KEESARA",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 227,
+    "ward": "TURKAPALLY",
+    "circle": "ALWAL",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 228,
+    "ward": "BHUDEVI NAGAR",
+    "circle": "ALWAL",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 229,
+    "ward": "KANAJIGUDA",
+    "circle": "ALWAL",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 230,
+    "ward": "TEMPLE ALWAL",
+    "circle": "ALWAL",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 231,
+    "ward": "VENKATAPURAM",
+    "circle": "ALWAL",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 232,
+    "ward": "MACHABOLLARAM",
+    "circle": "ALWAL",
+    "division": "1",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 233,
+    "ward": "MONDA MARKET",
+    "circle": "BOWENPALLY",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 234,
+    "ward": "FATEH NAGAR",
+    "circle": "BOWENPALLY",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 235,
+    "ward": "OLD BOWENPALLY",
+    "circle": "BOWENPALLY",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 236,
+    "ward": "PRAKASH NAGAR",
+    "circle": "BOWENPALLY",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 237,
+    "ward": "HASMATHPET",
+    "circle": "BOWENPALLY",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 238,
+    "ward": "NEREDMET",
+    "circle": "MOULALI",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 239,
+    "ward": "KAKATIYA NAGAR",
+    "circle": "MOULALI",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 240,
+    "ward": "MOULALI",
+    "circle": "MOULALI",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 241,
+    "ward": "BALRAM NAGAR",
+    "circle": "MOULALI",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 242,
+    "ward": "VINAYAK NAGAR",
+    "circle": "MOULALI",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 243,
+    "ward": "EAST ANANDBAGH",
+    "circle": "MALKAJGIRI",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 244,
+    "ward": "MIRJALGUDA",
+    "circle": "MALKAJGIRI",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 245,
+    "ward": "MALKAJGIRI",
+    "circle": "MALKAJGIRI",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 246,
+    "ward": "GOUTHAM NAGAR",
+    "circle": "MALKAJGIRI",
+    "division": "2",
+    "zone": "MALKAJGIRI",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 247,
+    "ward": "POCHARAM",
+    "circle": "GHATKESAR",
+    "division": "3",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 248,
+    "ward": "NAGARAM",
+    "circle": "GHATKESAR",
+    "division": "3",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 249,
+    "ward": "KUSHAIGUDA",
+    "circle": "KAPRA",
+    "division": "3",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 250,
+    "ward": "DR AS RAO NAGAR",
+    "circle": "KAPRA",
+    "division": "3",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 251,
+    "ward": "VAMPUGUDA",
+    "circle": "KAPRA",
+    "division": "3",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 252,
+    "ward": "KAPRA",
+    "circle": "KAPRA",
+    "division": "3",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 253,
+    "ward": "CHERLAPALLY",
+    "circle": "KAPRA",
+    "division": "3",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 254,
+    "ward": "MEDIPALLY",
+    "circle": "BODUPPAL",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 255,
+    "ward": "BODUPPAL",
+    "circle": "BODUPPAL",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 256,
+    "ward": "PEERZADIGUDA",
+    "circle": "BODUPPAL",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 257,
+    "ward": "CHENGICHERLA",
+    "circle": "BODUPPAL",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 258,
+    "ward": "SHAKTHI SAI NAGAR",
+    "circle": "NACHARAM",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 259,
+    "ward": "HMT NAGAR",
+    "circle": "NACHARAM",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 260,
+    "ward": "MALLAPUR",
+    "circle": "NACHARAM",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 261,
+    "ward": "HB COLONY",
+    "circle": "NACHARAM",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 262,
+    "ward": "NACHARAM",
+    "circle": "NACHARAM",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 263,
+    "ward": "VENKAT REDDY NAGAR",
+    "circle": "UPPAL",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 264,
+    "ward": "CHILKANAGAR",
+    "circle": "UPPAL",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 265,
+    "ward": "BEERAPPAGADDA",
+    "circle": "UPPAL",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 266,
+    "ward": "HABSIGUDA",
+    "circle": "UPPAL",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 267,
+    "ward": "UPPAL",
+    "circle": "UPPAL",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 268,
+    "ward": "RAMANTHAPUR",
+    "circle": "UPPAL",
+    "division": "4",
+    "zone": "UPPAL",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 269,
+    "ward": "LECTURERS COLONY",
+    "circle": "NAGOLE",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 270,
+    "ward": "MANSOORABAD",
+    "circle": "NAGOLE",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 271,
+    "ward": "GSI",
+    "circle": "NAGOLE",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 272,
+    "ward": "KUNTLOOR",
+    "circle": "NAGOLE",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 273,
+    "ward": "NAGOLE",
+    "circle": "NAGOLE",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 274,
+    "ward": "PEDDA AMBERPET",
+    "circle": "NAGOLE",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 275,
+    "ward": "RK PURAM",
+    "circle": "SAROORNAGAR",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 276,
+    "ward": "NTR NAGAR",
+    "circle": "SAROORNAGAR",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 277,
+    "ward": "CHAITANYAPURI",
+    "circle": "SAROORNAGAR",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 278,
+    "ward": "GADDIANNAARAM",
+    "circle": "SAROORNAGAR",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 279,
+    "ward": "DOCTORS COLONY",
+    "circle": "SAROORNAGAR",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 280,
+    "ward": "SAROORNAGAR",
+    "circle": "SAROORNAGAR",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 281,
+    "ward": "KOTHAPET",
+    "circle": "SAROORNAGAR",
+    "division": "5",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 282,
+    "ward": "BAIRAMALGUDA",
+    "circle": "LB NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 283,
+    "ward": "HASTHINAPURAM",
+    "circle": "LB NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 284,
+    "ward": "CHAMPAPET",
+    "circle": "LB NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 285,
+    "ward": "KARMANGHAT",
+    "circle": "LB NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 286,
+    "ward": "LINGOJIGUDA",
+    "circle": "LB NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 287,
+    "ward": "HAYATHNAGAR",
+    "circle": "HAYATH NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 288,
+    "ward": "HIGH COURT COLONY",
+    "circle": "HAYATH NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 289,
+    "ward": "CHINTALKUNTA",
+    "circle": "HAYATH NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 290,
+    "ward": "SAHEBNAGAR",
+    "circle": "HAYATH NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 291,
+    "ward": "VANASTHALIPURAM",
+    "circle": "HAYATH NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  },
+  {
+    "ward_id": 292,
+    "ward": "BN REDDY NAGAR",
+    "circle": "HAYATH NAGAR",
+    "division": "6",
+    "zone": "LB NAGAR",
+    "municipal_corporation": "MALKAJGIRI"
+  }
+]

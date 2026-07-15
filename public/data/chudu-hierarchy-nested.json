@@ -1,0 +1,492 @@
+{
+  "CYBERABAD": {
+    "SERILINGAMPALLY": {
+      "19": {
+        "PATANCHERUVU": [
+          "JP COLONY",
+          "PATANCHERUVU",
+          "TELLAPUR"
+        ],
+        "AMEENPUR": [
+          "BHARATHI NAGAR",
+          "RAMACHANDRAPURAM (RC PURAM)",
+          "BEERAMGUDA",
+          "AMEENPUR",
+          "BOLLARAM"
+        ]
+      },
+      "20": {
+        "NARSINGI": [
+          "NEKNAMPUR",
+          "NARSINGI",
+          "KOKAPET",
+          "GANDIPET",
+          "MANIKONDA"
+        ],
+        "MIYAPUR": [
+          "MADEENAGUDA",
+          "MAKTHA MAHABUBPET",
+          "MIYAPUR",
+          "CHANDA NAGAR",
+          "HAFEEZPET",
+          "DEEPTHISRI NAGAR"
+        ],
+        "SERILINGAMPALLY": [
+          "MASJID BANDA",
+          "SRI RAM NAGAR",
+          "SERILINGAMPALLY",
+          "GACHIBOWLI",
+          "NALLAGANDLA",
+          "KONDAPUR"
+        ]
+      }
+    },
+    "KUKATPALLY": {
+      "21": {
+        "MADHAPUR": [
+          "HITEC CITY",
+          "IZZATH NAGAR",
+          "MATRUSRI NAGAR",
+          "ANJAIAH NAGAR",
+          "MAYURI NAGAR",
+          "MADHAPUR"
+        ],
+        "ALLWYN COLONY": [
+          "HYDER NAGAR",
+          "SHAMSHIGUDA",
+          "VENKATESHWARA NAGAR",
+          "ALLWYN COLONY",
+          "BHAGYA NAGAR COLONY",
+          "VIVEKANANDA NAGAR COLONY"
+        ]
+      },
+      "22": {
+        "KUKATPALLY": [
+          "VASANTH NAGAR",
+          "KAITHALAPUR",
+          "KPHB COLONY",
+          "KUKATPALLY",
+          "BALAJI NAGAR",
+          "GAYATRI NAGAR"
+        ],
+        "MOOSAPET": [
+          "ALLAPUR",
+          "PRASHANTH NAGAR",
+          "MOOSAPET",
+          "BALANAGAR",
+          "MOTI NAGAR"
+        ]
+      }
+    },
+    "QUTHBULLAPUR": {
+      "23": {
+        "CHINTAL": [
+          "GIRI NAGAR",
+          "RANGA REDDY NAGAR",
+          "CHINTAL",
+          "RODAMESTRI NAGAR",
+          "JAGATHGIRI GUTTA"
+        ],
+        "JEEDIMETLA": [
+          "GANESH NAGAR",
+          "PET BASHEERABAD",
+          "PADMA NAGAR",
+          "QUTHBULLAPUR"
+        ],
+        "KOMPALLY": [
+          "SUBHASH NAGAR",
+          "SAIBABA NAGAR",
+          "DOOLAPALLY",
+          "KOMPALLY"
+        ],
+        "GAJULARAMARAM": [
+          "MAHADEVPURAM",
+          "SHAPUR NAGAR",
+          "GAJULARAMARAM",
+          "SURARAM"
+        ]
+      },
+      "24": {
+        "NIZAMPET": [
+          "BHANDARI LAYOUT",
+          "NIZAMPET",
+          "BACHUPALLY",
+          "PRAGATHI NAGAR"
+        ],
+        "DUNDIGAL": [
+          "BAHADURPALLY",
+          "BOWRAMPET"
+        ],
+        "MEDCHAL": [
+          "GUNDLAPOCHAMPALLY"
+        ]
+      }
+    }
+  },
+  "HYDERABAD": {
+    "SHAMSHABAD": {
+      "7": {
+        "ADIBATLA": [
+          "THORRUR",
+          "TURKAYAMJAL",
+          "ADIBATLA"
+        ],
+        "BADANGPET": [
+          "NADARGUL",
+          "PRASHANTHI HILLS",
+          "BALAPUR",
+          "BADANGPET",
+          "MEERPET",
+          "JILLELAGUDA"
+        ]
+      },
+      "8": {
+        "JALPALLY": [
+          "SHAHEEN NAGAR",
+          "PAHADI SHAREEF",
+          "JALPALLY"
+        ],
+        "SHAMSHABAD": [
+          "KOTHWALGUDA",
+          "SHAMSHABAD",
+          "THUKKUGUDA"
+        ]
+      }
+    },
+    "RAJENDRANAGAR": {
+      "9": {
+        "RAJENDRA NAGAR": [
+          "RAJENDRA NAGAR",
+          "BANDLAGUDA JAGIR",
+          "HYDERSHAHKOTE",
+          "KISMATPUR"
+        ],
+        "ATTAPUR": [
+          "SHASTRIPURAM",
+          "HYDERGUDA",
+          "ATTAPUR",
+          "SULEMAN NAGAR",
+          "MAILARDEVPALLY",
+          "KATEDAN"
+        ]
+      },
+      "10": {
+        "BAHADURPURA": [
+          "TEEGAL KUNTA",
+          "RAMNASTHPURA",
+          "CHANDU LAL BARADARI",
+          "DOODH BOWLI",
+          "KISHANBAGH"
+        ],
+        "FALAKNUMA": [
+          "SHAH ALI BANDA",
+          "FALAKNUMA",
+          "NAWAB SAHEB KUNTA",
+          "JAHANUMA"
+        ],
+        "CHANDRAYANGUTTA": [
+          "NOORI NAGAR",
+          "BARKAS",
+          "CHANDRAYANGUTTA",
+          "BANDLAGUDA",
+          "KANCHANBAGH"
+        ],
+        "JANGAMMET": [
+          "LALITHA BAGH",
+          "PHOOL BAGH",
+          "QUADRI CHAMAN",
+          "JANGAMMET",
+          "RIYASAT NAGAR"
+        ]
+      }
+    },
+    "CHARMINAR": {
+      "11": {
+        "YAKUTPURA": [
+          "TALAB CHANCHALAM",
+          "DABEERPURA",
+          "REIN BAZAR",
+          "MADANNAPET",
+          "YAKUTPURA",
+          "GOWLIPURA"
+        ],
+        "CHARMINAR": [
+          "QAZIPURA",
+          "GHANSI BAZAR",
+          "PURANA PUL",
+          "PURANI HAVELI",
+          "HARI BOWLI",
+          "PATHERGATTI"
+        ]
+      },
+      "12": {
+        "SANTOSH NAGAR": [
+          "BHANU NAGAR",
+          "IS SADAN",
+          "SARASWATI NAGAR",
+          "SANTOSH NAGAR"
+        ],
+        "MALAKPET": [
+          "AKBERBAGH",
+          "CHAWANI",
+          "SAIDABAD",
+          "ASMANGADH"
+        ],
+        "MOOSARAMBAGH": [
+          "OLD MALAKPET",
+          "MCH COLONY",
+          "KALA DERA",
+          "AZAMPURA",
+          "MOOSARAMBAGH"
+        ]
+      }
+    },
+    "GOLCONDA": {
+      "13": {
+        "GOSHAMAHAL": [
+          "DATTATREYA NAGAR",
+          "GOSHAMAHAL",
+          "BEGUM BAZAR",
+          "JAMBAGH",
+          "EXHIBITION GROUNDS",
+          "MANGHALHAT"
+        ],
+        "KARWAN": [
+          "GUDIMALKAPUR",
+          "LANGAR HOUZ",
+          "KARWAN",
+          "TAPPACHABUTRA",
+          "ZIAGUDA"
+        ]
+      },
+      "14": {
+        "GOLCONDA": [
+          "NIZAM COLONY",
+          "NANALNAGAR",
+          "IBRAHIMBAGH",
+          "OU COLONY",
+          "TOLICHOWKI",
+          "GOLCONDA",
+          "SHAIKPET"
+        ],
+        "MEHDIPATNAM": [
+          "PADMANABHA NAGAR",
+          "SYED NAGAR",
+          "MEHDIPATNAM",
+          "ASIF NAGAR"
+        ],
+        "MASAB TANK": [
+          "SHANTI NAGAR",
+          "MALLEPALLY",
+          "VIJAYANAGAR COLONY",
+          "AHMED NAGAR"
+        ]
+      }
+    },
+    "KHAIRATABAD": {
+      "15": {
+        "KHAIRATABAD": [
+          "IRRUM MANZIL",
+          "KHAIRATABAD",
+          "HIMAYATHNAGAR",
+          "RED HILLS",
+          "GUNFOUNDRY",
+          "SOMAJIGUDA"
+        ],
+        "JUBILEE HILLS": [
+          "VENKATESHWARA COLONY",
+          "JUBILEE HILLS",
+          "BANJARA HILLS",
+          "FILM NAGAR"
+        ]
+      },
+      "16": {
+        "BORABANDA": [
+          "KRISHNA NAGAR",
+          "RAHAMATH NAGAR",
+          "KARMIKA NAGAR",
+          "RAJEEV NAGAR",
+          "BORABANDA"
+        ],
+        "YOUSUFGUDA": [
+          "SRINAGAR COLONY",
+          "YOUSUFGUDA",
+          "AG COLONY",
+          "ERRAGADDA",
+          "VENGAL RAO NAGAR"
+        ],
+        "AMEERPET": [
+          "BEGUMPET",
+          "AMEERPET",
+          "BK GUDA",
+          "SR NAGAR",
+          "SANATHNAGAR"
+        ]
+      }
+    },
+    "SECUNDERABAD": {
+      "17": {
+        "KAVADIGUDA": [
+          "KAVADIGUDA",
+          "BAKARAM",
+          "BHOLAKPUR",
+          "PADMARAO NAGAR",
+          "BANSILALPET",
+          "RAMGOPALPET",
+          "GANDHI NAGAR"
+        ],
+        "MUSHEERABAD": [
+          "RAMNAGAR",
+          "BAPUJI NAGAR",
+          "MUSHEERABAD",
+          "BAGH LINGAMPALLY",
+          "ADIKMET"
+        ],
+        "AMBERPET": [
+          "KACHIGUDA",
+          "GOLNAKA",
+          "PATEL NAGAR",
+          "BAGH AMBERPET",
+          "TILAK NAGAR",
+          "NALLAKUNTA",
+          "AMBERPET",
+          "BARKATPURA"
+        ]
+      },
+      "18": {
+        "TARNAKA": [
+          "CHILKALGUDA",
+          "SEETHAPHALMANDI",
+          "BOUDHA NAGAR",
+          "TARNAKA"
+        ],
+        "METTUGUDA": [
+          "NORTH LALAGUDA",
+          "ADDAGUTTA",
+          "METTUGUDA",
+          "LALAPET"
+        ]
+      }
+    }
+  },
+  "MALKAJGIRI": {
+    "MALKAJGIRI": {
+      "1": {
+        "KEESARA": [
+          "KEESARA",
+          "CHANDRAPURI COLONY",
+          "SHAMIRPET",
+          "YAPRAL",
+          "JAWAHARNAGAR",
+          "DAMMAIGUDA"
+        ],
+        "ALWAL": [
+          "TURKAPALLY",
+          "BHUDEVI NAGAR",
+          "KANAJIGUDA",
+          "TEMPLE ALWAL",
+          "VENKATAPURAM",
+          "MACHABOLLARAM"
+        ]
+      },
+      "2": {
+        "BOWENPALLY": [
+          "MONDA MARKET",
+          "FATEH NAGAR",
+          "OLD BOWENPALLY",
+          "PRAKASH NAGAR",
+          "HASMATHPET"
+        ],
+        "MOULALI": [
+          "NEREDMET",
+          "KAKATIYA NAGAR",
+          "MOULALI",
+          "BALRAM NAGAR",
+          "VINAYAK NAGAR"
+        ],
+        "MALKAJGIRI": [
+          "EAST ANANDBAGH",
+          "MIRJALGUDA",
+          "MALKAJGIRI",
+          "GOUTHAM NAGAR"
+        ]
+      }
+    },
+    "UPPAL": {
+      "3": {
+        "GHATKESAR": [
+          "POCHARAM",
+          "NAGARAM"
+        ],
+        "KAPRA": [
+          "KUSHAIGUDA",
+          "DR AS RAO NAGAR",
+          "VAMPUGUDA",
+          "KAPRA",
+          "CHERLAPALLY"
+        ]
+      },
+      "4": {
+        "BODUPPAL": [
+          "MEDIPALLY",
+          "BODUPPAL",
+          "PEERZADIGUDA",
+          "CHENGICHERLA"
+        ],
+        "NACHARAM": [
+          "SHAKTHI SAI NAGAR",
+          "HMT NAGAR",
+          "MALLAPUR",
+          "HB COLONY",
+          "NACHARAM"
+        ],
+        "UPPAL": [
+          "VENKAT REDDY NAGAR",
+          "CHILKANAGAR",
+          "BEERAPPAGADDA",
+          "HABSIGUDA",
+          "UPPAL",
+          "RAMANTHAPUR"
+        ]
+      }
+    },
+    "LB NAGAR": {
+      "5": {
+        "NAGOLE": [
+          "LECTURERS COLONY",
+          "MANSOORABAD",
+          "GSI",
+          "KUNTLOOR",
+          "NAGOLE",
+          "PEDDA AMBERPET"
+        ],
+        "SAROORNAGAR": [
+          "RK PURAM",
+          "NTR NAGAR",
+          "CHAITANYAPURI",
+          "GADDIANNAARAM",
+          "DOCTORS COLONY",
+          "SAROORNAGAR",
+          "KOTHAPET"
+        ]
+      },
+      "6": {
+        "LB NAGAR": [
+          "BAIRAMALGUDA",
+          "HASTHINAPURAM",
+          "CHAMPAPET",
+          "KARMANGHAT",
+          "LINGOJIGUDA"
+        ],
+        "HAYATH NAGAR": [
+          "HAYATHNAGAR",
+          "HIGH COURT COLONY",
+          "CHINTALKUNTA",
+          "SAHEBNAGAR",
+          "VANASTHALIPURAM",
+          "BN REDDY NAGAR"
+        ]
+      }
+    }
+  }
+}
